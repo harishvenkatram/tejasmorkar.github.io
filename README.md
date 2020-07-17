@@ -1,7 +1,3 @@
-# Tejas Morkar
-
-Android and Web Developer | Interested in Machine Learning & Data Science | Currently working working on GANs |
-
 ## My Projects
 
 ### [Sketch to Color](./sketch-to-color) 
