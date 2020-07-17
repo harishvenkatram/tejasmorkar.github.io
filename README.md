@@ -1,4 +1,4 @@
-![](https://avatars3.githubusercontent.com/u/35477326?s=460&u=c1368375704aa1115ed95c49847fb6bc38e343d1&v=4)
+![Logo](https://avatars3.githubusercontent.com/u/35477326?s=460&u=c1368375704aa1115ed95c49847fb6bc38e343d1&v=4)
 
 # Tejas Morkar
 
