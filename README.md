@@ -20,8 +20,6 @@ I am persuing a Bachelor's Degree in Computer Engineering from Pimpri Chinchwad 
 
 [Click here to see my courses and certificates](./pages/courses-and-achievements/)
 
-[Download My Resume](https://drive.google.com/file/d/1g4NCb5Hgef4EAZTAg5w_Lf0x3GvP-Zes/view?usp=sharing)
-
 # Contact Me
 
 LinkedIn - [/in/tejasmorkar/](https://www.linkedin.com/in/tejasmorkar/)
