@@ -1,4 +1,4 @@
-# My Projects
+# Projects
 
 ## [Sketch to Color](./sketch-to-color) 
 
@@ -14,7 +14,13 @@ This is a project which takes an input of the sudoku puzzles as an 81 characters
 
 [Click here to see the project](./sudoku-solver)
 
-# My Achievements
+# Presentations 
+
+## [Pie & AI: Pune - Intro to GANs](./assets/ppts/pie-ai-pune-intro-to-gans.pdf)
+
+## [Opensource - Why and How?](./assets/ppts/opensource-why-and-how.pdf)
+
+# Achievements
 
 I am persuing a Bachelor's Degree in Computer Engineering from Pimpri Chinchwad College of Engineering, Pune. Apart from this, I love to explore and complete other extra cirricular courses provided by companies like Google, Coursera, and so on. 
 
