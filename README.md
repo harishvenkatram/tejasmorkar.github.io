@@ -18,7 +18,17 @@ This is a project which takes an input of the sudoku puzzles as an 81 characters
 
 ## [Pie & AI: Pune - Intro to GANs](./assets/ppts/pie-ai-pune-intro-to-gans.pdf)
 
+**Date: 17th Oct, 2020**
+
+Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by PCCoE ACM Student Chapter. Special thanks to their support!
+
+Pie & AI: Pune - Intro to GANs will be an event for beginners in the Machine Learning domain who want to know more about this beautiful idea of GANs. It will introduce the attendees to GANs, their various types, and use cases along with a proper understanding of its concept. The attendees will leave the event with better knowledge about it and a clear path of what can and cannot be done using GANs and will have a clear idea of where to start studying it.
+
 ## [Opensource - Why and How?](./assets/ppts/opensource-why-and-how.pdf)
+
+**Date: 20th Sep, 2020**
+
+This is a hands-on workshop for getting started with open-source collaborations. It was a part of DSC PCCoE event in partnership with PCCoE ACM Student Chapter. 
 
 # Achievements
 
